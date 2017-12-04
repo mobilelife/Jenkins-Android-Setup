@@ -1,0 +1,16 @@
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\App\bin\Debug\App.dll
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\App\bin\Debug\App.pdb
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\App\bin\Debug\App.App.apk
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\App\bin\Debug\App.App-Signed.apk
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\App\obj\Debug\App.dll
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\App\obj\Debug\App.pdb
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\App\obj\Debug\android\bin\App.App.apk
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\App\obj\Debug\res\layout\main.xml
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\App\obj\Debug\res\values\strings.xml
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\App\obj\Debug\res\drawable\icon.png
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\App\obj\Debug\R.cs.flag
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\App\obj\Debug\uploadflags.txt
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\App\bin\Debug\App.dll.mdb
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\App\obj\Debug\android\assets\App.dll.mdb

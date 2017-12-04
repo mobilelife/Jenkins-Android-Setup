@@ -1,0 +1,13 @@
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\XamarinSample\bin\Debug\XamarinSample.dll
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\XamarinSample\bin\Debug\XamarinSample.pdb
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\XamarinSample\bin\Debug\XamarinSample.XamarinSample.apk
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\XamarinSample\bin\Debug\XamarinSample.XamarinSample-Signed.apk
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\XamarinSample\obj\Debug\XamarinSample.csprojResolveAssemblyReference.cache
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\XamarinSample\obj\Debug\XamarinSample.csproj.CoreCompileInputs.cache
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\XamarinSample\obj\Debug\XamarinSample.dll
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\XamarinSample\obj\Debug\XamarinSample.pdb
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\XamarinSample\obj\Debug\android\bin\XamarinSample.XamarinSample.apk
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\XamarinSample\obj\Debug\res\layout\main.xml
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\XamarinSample\obj\Debug\res\values\strings.xml
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\XamarinSample\obj\Debug\R.cs.flag
+F:\Programming\Android\Jenkins-Android-Setup\Samples\Xamarin\XamarinSample\obj\Debug\uploadflags.txt

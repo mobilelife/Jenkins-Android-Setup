@@ -1,0 +1,4 @@
+XamarinSample.MainActivity, XamarinSample;md5123f7ec04c4ba65b02cd4ee68c5c4cde.MainActivity
+XamarinSample.MainActivity, XamarinSample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5123f7ec04c4ba65b02cd4ee68c5c4cde.MainActivity
+XamarinSample.MainActivity;md5123f7ec04c4ba65b02cd4ee68c5c4cde.MainActivity
+xamarinsample.MainActivity;md5123f7ec04c4ba65b02cd4ee68c5c4cde.MainActivity
